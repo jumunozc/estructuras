@@ -1,3 +1,6 @@
+/**
+ * @Julian Muñoz
+ */
 package estructurass;
 
 	import java.util.Arrays;
