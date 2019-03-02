@@ -3,7 +3,7 @@ package estructuras;
 public class Hijo extends LaMadre {
 	
 	public int edad = 20;
-	public double estadoSalud = 32.5; //0 es malo 
+	public double estadoSalud = 32.5; //0 es malo , 100 es bueno
 
 	@Override
 	public void  caminar() {
